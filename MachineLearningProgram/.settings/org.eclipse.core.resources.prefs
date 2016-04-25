@@ -1,4 +1,5 @@
 eclipse.preferences.version=1
+encoding//src/WebScraping/CAPTCHA.py=utf-8
 encoding//src/WebScraping/Cookies.py=gbk
 encoding//src/WebScraping/HTTPBasicAuth.py=gbk
 encoding//src/WebScraping/OCRdemo.py=utf8
