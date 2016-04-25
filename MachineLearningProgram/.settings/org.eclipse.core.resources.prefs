@@ -1,5 +1,7 @@
 eclipse.preferences.version=1
 encoding//src/WebScraping/Cookies.py=gbk
 encoding//src/WebScraping/HTTPBasicAuth.py=gbk
+encoding//src/WebScraping/Redirect.py=utf-8
+encoding//src/WebScraping/Selenium.py=gbk
 encoding//src/WebScraping/Session.py=gbk
 encoding//src/WebScraping/SubmitForm.py=gbk
