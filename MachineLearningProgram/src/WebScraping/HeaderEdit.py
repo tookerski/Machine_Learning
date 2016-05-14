@@ -13,3 +13,5 @@ req = session.get(url,headers=headers)
 
 bsObj = BeautifulSoup(req.text,"lxml")
 print(bsObj.find("table",{"class":"table-striped"}).get_text())
+
+import this
