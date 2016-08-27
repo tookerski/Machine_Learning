@@ -1,5 +1,5 @@
 *.class
-./*.iml
+*.iml
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -14,5 +14,11 @@ hs_err_pid*
 
 #folders
 /InterfaceTest/
-./.idea/
-./out/
+/LineCount/
+/MachineLearningProgram/
+/WeatherData/
+
+##
+!/LineCount/src
+!/MachineLearningProgram/src
+!/WeatherData/src
