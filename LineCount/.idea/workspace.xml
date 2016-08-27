@@ -119,9 +119,9 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -588,11 +588,12 @@
       <workItem from="1470482772506" duration="1885000" />
       <workItem from="1470485120906" duration="766000" />
       <workItem from="1470544594992" duration="666000" />
+      <workItem from="1471179832492" duration="640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3382000" />
+    <option name="totallyTimeSpent" value="4022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -645,6 +646,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/trendwise/java/LineCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/trendwise/java/LineCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
